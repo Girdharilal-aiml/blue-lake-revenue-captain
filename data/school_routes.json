@@ -1,0 +1,31 @@
+[
+  {
+    "id": "route_A",
+    "school": "FAST NUCES",
+    "region": "Karachi, PK",
+    "contact_email": "careers@nu.edu.pk",
+    "active": true
+  },
+  {
+    "id": "route_B",
+    "school": "IBA Karachi",
+    "region": "Karachi, PK",
+    "contact_email": "bounced@iba.edu.pk",
+    "active": false,
+    "bounce_reason": "contact no longer valid"
+  },
+  {
+    "id": "route_C",
+    "school": "LUMS",
+    "region": "Lahore, PK",
+    "contact_email": "recruit@lums.edu.pk",
+    "active": true
+  },
+  {
+    "id": "route_D",
+    "school": "NED University",
+    "region": "Karachi, PK",
+    "contact_email": "placements@neduet.edu.pk",
+    "active": true
+  }
+]

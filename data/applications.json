@@ -1,0 +1,72 @@
+[
+  {
+    "id": "app_001",
+    "name": "Sara Khan",
+    "email": "sara.khan@gmail.com",
+    "phone": "+1-312-555-0101",
+    "school_route_id": "route_A",
+    "submitted_at": "2026-06-01T09:00:00Z",
+    "evidence": {
+      "resume": true,
+      "github": "https://github.com/sarakhan",
+      "cover_note": true
+    },
+    "status": "pending"
+  },
+  {
+    "id": "app_002",
+    "name": "Ahmed Raza",
+    "email": "ahmed.raza@outlook.com",
+    "phone": "+1-312-555-0202",
+    "school_route_id": "route_B",
+    "submitted_at": "2026-05-10T14:00:00Z",
+    "evidence": {
+      "resume": true,
+      "github": null,
+      "cover_note": false
+    },
+    "status": "pending"
+  },
+  {
+    "id": "app_003",
+    "name": "Sara Khan",
+    "email": "sara.khan@gmail.com",
+    "phone": "+1-312-555-0101",
+    "school_route_id": "route_A",
+    "submitted_at": "2026-06-02T10:00:00Z",
+    "evidence": {
+      "resume": true,
+      "github": "https://github.com/sarakhan",
+      "cover_note": true
+    },
+    "status": "pending"
+  },
+  {
+    "id": "app_004",
+    "name": "Liu Wei",
+    "email": "liu.wei@fastmail.com",
+    "phone": "+1-773-555-0303",
+    "school_route_id": "route_C",
+    "submitted_at": "2026-06-08T11:30:00Z",
+    "evidence": {
+      "resume": false,
+      "github": null,
+      "cover_note": false
+    },
+    "status": "pending"
+  },
+  {
+    "id": "app_005",
+    "name": "Maria Lopez",
+    "email": "maria.lopez@gmail.com",
+    "phone": "+1-469-555-0404",
+    "school_route_id": "route_D",
+    "submitted_at": "2026-06-09T08:00:00Z",
+    "evidence": {
+      "resume": true,
+      "github": "https://github.com/marialopez",
+      "cover_note": true
+    },
+    "status": "pending"
+  }
+]

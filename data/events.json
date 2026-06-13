@@ -1,0 +1,51 @@
+[
+  {
+    "id": "evt_001",
+    "app_id": "app_001",
+    "type": "email_sent",
+    "timestamp": "2026-06-01T10:00:00Z",
+    "meta": { "template": "welcome" }
+  },
+  {
+    "id": "evt_002",
+    "app_id": "app_001",
+    "type": "email_opened",
+    "timestamp": "2026-06-01T11:00:00Z",
+    "meta": {}
+  },
+  {
+    "id": "evt_003",
+    "app_id": "app_002",
+    "type": "email_sent",
+    "timestamp": "2026-05-10T15:00:00Z",
+    "meta": { "template": "welcome" }
+  },
+  {
+    "id": "evt_004",
+    "app_id": "app_002",
+    "type": "email_bounced",
+    "timestamp": "2026-05-10T15:01:00Z",
+    "meta": { "reason": "mailbox_full" }
+  },
+  {
+    "id": "evt_005",
+    "app_id": "app_004",
+    "type": "email_sent",
+    "timestamp": "2026-06-08T12:00:00Z",
+    "meta": { "template": "welcome" }
+  },
+  {
+    "id": "evt_006",
+    "app_id": "app_005",
+    "type": "email_sent",
+    "timestamp": "2026-06-09T09:00:00Z",
+    "meta": { "template": "welcome" }
+  },
+  {
+    "id": "evt_007",
+    "app_id": "app_005",
+    "type": "email_replied",
+    "timestamp": "2026-06-09T10:30:00Z",
+    "meta": { "content": "looking forward to it" }
+  }
+]
